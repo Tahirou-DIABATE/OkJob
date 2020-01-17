@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910048179446",
+    "firebase_url": "https://okjob-1966.firebaseio.com",
+    "project_id": "okjob-1966",
+    "storage_bucket": "okjob-1966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910048179446:android:c2c91ddca88e868a4068d7",
+        "android_client_info": {
+          "package_name": "com.lol.okjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910048179446-lc5eqa1ua8o1uuij50eioj44oahvnrgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCATz6turMJCPb_mygPukANKSshZtA-_PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910048179446-lc5eqa1ua8o1uuij50eioj44oahvnrgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
