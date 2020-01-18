@@ -6,7 +6,7 @@ buildscript {
         // Check that you have the following line (if not, add it):
         google() // Google's Maven repository
         jcenter()
-        
+
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.5.3'
@@ -23,7 +23,8 @@ allprojects {
         // Check that you have the following line (if not, add it):
         google() // Google's Maven repository
         jcenter()
-        
+
+        maven { url "https://jitpack.io" }
     }
 }
 
